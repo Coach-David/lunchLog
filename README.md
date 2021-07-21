@@ -1,4 +1,2 @@
 # lunchLog
-
-
-John - Chicken & Veggies
+Adam - Breakfast burrito
